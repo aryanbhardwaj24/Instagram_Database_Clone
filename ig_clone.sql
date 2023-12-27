@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS ig_clone;
+USE ig_clone;
+
