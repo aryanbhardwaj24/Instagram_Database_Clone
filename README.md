@@ -35,7 +35,7 @@ To use this database schema, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/aryanbhardwaj24/instagram-database-clone.git
+   git clone https://github.com/aryanbhardwaj24/Instagram_Database_Clone.git
 
 2. **Import the Schema:**
 - Use your preferred MySQL client or command-line tool to import the `ig_clone.sql` file into your database.
